@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferr34
 - 👀 I’m interested in Backend Developement and CyberSecurity
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Unix Shell Scripting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
