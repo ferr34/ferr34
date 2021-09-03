@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Developement and CyberSecurity
 - 🌱 I’m currently learning Unix Shell Scripting & Linux General Purpose
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on email ferrantealdo194@gmail.com
+- 📫 You can reach me on email ferrantealdo194@gmail.com
 
 <!---
 ferr34/ferr34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
