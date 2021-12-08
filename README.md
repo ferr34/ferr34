@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferr34
 - 👀 I’m interested in Backend Developement and CyberSecurity
-- 🌱 I’m currently learning Unix Shell Scripting & Linux General Purpose
+- 🌱 I’m currently learning Flutter & Python
 - 📫 You can reach me on email ferrantealdo194@gmail.com
 
 <!---
