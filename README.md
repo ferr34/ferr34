@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ferr34
 - 👀 I’m interested in Backend Developement and CyberSecurity
 - 🌱 I’m currently learning Flutter & Python
+- 👨🏻‍💻 Security Platforms consultant
 - 📫 You can reach me on email ferrantealdo194@gmail.com
 
 <!---
